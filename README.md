@@ -95,8 +95,7 @@ UI 중심 개발을 넘어 엔진 레벨 구조 이해 확장
 시스템 관점에서 전투 흐름을 설계하는 경험
 
 🎥 Demo
-Gameplay Video: (YouTube 링크)
-
-Build File: (Google Drive / OneDrive 링크)
+- Gameplay Video: [(Youtube 링크)]([https://youtu.be/olwNYIAVD0Y](https://studio.youtube.com/video/luwh2BIV59g/edit)
+- Build File:  [(Google Drive / OneDrive 링크)](https://drive.google.com/file/d/1KEKOJPTr3_zcSl-Ir4m0ruaHoGQu7Yxw/view)
 
 본 프로젝트는 학습 및 포트폴리오 목적의 개인 프로젝트입니다.
