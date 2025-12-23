@@ -1,0 +1,31 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+
+# Build folders
+Debug/
+Release/
+x64/
+x86/
+
+# Intermediate
+*.obj
+*.pdb
+*.ilk
+*.log
+*.tlog
+
+# DirectX compiled shaders
+*.cso
+
+# Temp / cache
+*.tmp
+*.bak
+
+# OS
+Thumbs.db
+.DS_Store
